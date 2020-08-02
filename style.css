@@ -1,12 +1,12 @@
 h1 {
     text-align: center;
 }
-p1 {
+#p1 {
     color: red
 }
-p2 {
+#p2 {
     color: blue
 }
-p3 {
+#p3 {
     color: green
 }
