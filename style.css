@@ -24,9 +24,10 @@ h1 {
 }
 #p8 {
     font-family: Georgia, 'Times New Roman', Times, serif;
-
 }
 #p9 {
     color: orange; font-size: 2em; font-weight: bold;
-
+}
+.styledFont {
+    font-family: 'Times New Roman', Times, serif; font-size: 1.5em; color: darkblue;
 }
