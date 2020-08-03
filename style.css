@@ -31,3 +31,6 @@ h1 {
 .styledFont {
     font-family: 'Times New Roman', Times, serif; font-size: 1.5em; color: darkblue;
 }
+#styledImage {
+    border-style: solid; border-width: thick; border-color: darkred;
+}
