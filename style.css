@@ -10,9 +10,15 @@ h1 {
 #p3 {
     color: green
 }
+#p4 {
+    font-size: 2em;
+}
+#p5 {
+    font-size: .5em;
+}
 #p6 {
     text-align: center
 }
 #p7 {
-    text-decoration: bold;
+    font-weight: bold;
 }
